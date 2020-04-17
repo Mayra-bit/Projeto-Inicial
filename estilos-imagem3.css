@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+}
+
+#bloco6{
+    top: 0;
+    left: 20%;
+    position: relative;
+}
+
+#bloco6-1{
+    top: 200px;
+    left: 31%;
+    position: absolute;
+    
+}   
+
+#img3{
+    border-radius: 2%;
+}
+
